@@ -1,0 +1,12 @@
+﻿  main.cpp
+g:\test\vs2015\cpp11\typeof\main.cpp(82): warning C4101: “tvDerivedA”: 未引用的局部变量
+g:\test\vs2015\cpp11\typeof\main.cpp(81): warning C4101: “trBaseA”: 未引用的局部变量
+g:\test\vs2015\cpp11\typeof\main.cpp(87): warning C4101: “vOBaseA”: 未引用的局部变量
+g:\test\vs2015\cpp11\typeof\main.cpp(83): warning C4101: “tpBaseB”: 未引用的局部变量
+g:\test\vs2015\cpp11\typeof\main.cpp(81): warning C4101: “tvBaseA”: 未引用的局部变量
+g:\test\vs2015\cpp11\typeof\main.cpp(84): warning C4101: “tpDerivedB”: 未引用的局部变量
+g:\test\vs2015\cpp11\typeof\main.cpp(82): warning C4101: “tpDerivedA”: 未引用的局部变量
+g:\test\vs2015\cpp11\typeof\main.cpp(82): warning C4101: “trDerivedA”: 未引用的局部变量
+g:\test\vs2015\cpp11\typeof\main.cpp(81): warning C4101: “tpBaseA”: 未引用的局部变量
+  typeof.vcxproj -> G:\Test\VS2015\CPP11\Debug\typeof.exe
+  typeof.vcxproj -> G:\Test\VS2015\CPP11\Debug\typeof.pdb (Partial PDB)
